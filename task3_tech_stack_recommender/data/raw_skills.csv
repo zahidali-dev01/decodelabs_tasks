@@ -1,0 +1,13 @@
+job_role,skills
+Data Scientist,"Python, SQL, Machine Learning, Pandas, NumPy, Statistics, Data Visualization"
+DevOps Engineer,"AWS, Docker, Kubernetes, Linux, Git, CI/CD, Automation"
+Backend Developer,"Java, Python, SQL, APIs, Git, REST, Databases"
+Cloud Architect,"AWS, Azure, Cloud Computing, Docker, Kubernetes, Terraform, Networking"
+ML Engineer,"Python, Machine Learning, TensorFlow, PyTorch, NumPy, Git, MLOps"
+Data Analyst,"Python, SQL, Excel, Pandas, Statistics, Data Visualization, Power BI"
+Frontend Developer,"HTML, CSS, JavaScript, React, Git, UI Design, Bootstrap"
+Cybersecurity Analyst,"Linux, Python, Networking, Cybersecurity, SIEM, SQL, Cloud Security"
+Database Administrator,"SQL, MySQL, PostgreSQL, Database Administration, Linux, Backup, Performance Tuning"
+Automation Engineer,"Python, Automation, APIs, Selenium, Git, CI/CD, Docker"
+AI Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, NLP, APIs"
+Cloud DevOps Engineer,"AWS, Docker, Kubernetes, Terraform, Linux, Git, CI/CD"

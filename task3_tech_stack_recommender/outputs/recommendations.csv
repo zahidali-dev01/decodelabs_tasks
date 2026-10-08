@@ -1,0 +1,4 @@
+job_role,skills,similarity_score
+Data Analyst,"python, sql, excel, pandas, statistics, data visualization, power bi",0.07957205740436235
+Database Administrator,"sql, mysql, postgresql, database administration, linux, backup, performance tuning",0.07389654229735508
+AI Engineer,"python, machine learning, deep learning, tensorflow, pytorch, nlp, apis",0.0
